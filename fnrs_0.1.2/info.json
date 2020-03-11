@@ -1,0 +1,11 @@
+{
+	"name": "fnrs",
+	"version": "0.1.2",
+	"title": "fuel and rocket stacksize multiplier",
+	"author": "lottery248",
+    "homepage": "",
+	"factorio_version": "0.17",
+	"dependencies": ["base >= 0.17", "? SpecializedFuel >= 0.4.1" ], 
+	"description": "still working in progress."
+
+}

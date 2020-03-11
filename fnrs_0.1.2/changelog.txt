@@ -1,0 +1,10 @@
+version 0.1.1 - Date: 2020.3.11
+
+update: added support for specialized fuels
+
+---
+
+version 0.1.2 - Date: 2020.3.11
+
+trying to fix the issue of 0.1.1 - which was unable to use Specialized Fuels due to the lack of "data-final-fixes" - i used "data" on 0.1.1.
+if used with the mod above, then the base stack size of nuclear fuel is 10.
